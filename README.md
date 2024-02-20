@@ -85,3 +85,7 @@ After completion, I launch ADUC to observe the accounts within the employee OU. 
 </p>
 <p align="center">
 <img src="https://i.imgur.com/st8wZPo.png" height="50%" width="50%" />
+
+<p>
+Thank for dropping by!
+</p>
